@@ -1,6 +1,6 @@
 #!/bin/sh
 clear
-figlet CCTV© | lolcat
+figlet CCTVM | lolcat
 echo "By Mufti"
 sleep 2
 echo "Hack CCTV"
